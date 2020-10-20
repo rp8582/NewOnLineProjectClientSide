@@ -1,0 +1,89 @@
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\GUI.exe.config
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\GUI.exe
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\GUI.pdb
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\BL.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\DAL.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\DTO.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\BL.pdb
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\DAL.pdb
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\DAL.dll.config
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\DTO.pdb
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.Form1.resources
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.Properties.Resources.resources
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.CopyComplete
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.exe
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.pdb
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\GUI.exe.config
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\GUI.exe
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\GUI.pdb
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\BL.dll
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\DAL.dll
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\DTO.dll
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.dll
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.SqlServer.dll
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\BL.pdb
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\DAL.pdb
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\DAL.dll.config
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\DTO.pdb
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.xml
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.SqlServer.xml
+F:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+F:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.Form1.resources
+F:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.exe
+F:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.pdb
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\GUI.exe.config
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\GUI.exe
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\GUI.pdb
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\BL.dll
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\DAL.dll
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\DTO.dll
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.dll
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\BL.pdb
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\DAL.pdb
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\DAL.dll.config
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\DTO.pdb
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.xml
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.Form1.resources
+D:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.exe
+D:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.pdb
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\פרויקט\ServerSideApplication\GUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+H:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+H:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.Form1.resources
+H:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.Properties.Resources.resources
+H:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+H:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+H:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.exe
+H:\פרויקט\ServerSideApplication\GUI\obj\Debug\GUI.pdb

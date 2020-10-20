@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="onLineModelStoreContainer" CdmEntityContainer="onLineEntities">
+    <EntitySetMapping Name="activityTimes">
+      <EntityTypeMapping TypeName="onLineModel.activityTimes">
+        <MappingFragment StoreEntitySet="activityTimes">
+          <ScalarProperty Name="activityTimeId" ColumnName="activityTimeId" />
+          <ScalarProperty Name="serviceId" ColumnName="serviceId" />
+          <ScalarProperty Name="dayInWeek" ColumnName="dayInWeek" />
+          <ScalarProperty Name="startTime" ColumnName="startTime" />
+          <ScalarProperty Name="endTime" ColumnName="endTime" />
+          <ScalarProperty Name="startDate" ColumnName="startDate" />
+          <ScalarProperty Name="endDate" ColumnName="endDate" />
+          <ScalarProperty Name="numOfWorkers" ColumnName="numOfWorkers" />
+          <ScalarProperty Name="estimatedDurationOfService" ColumnName="estimatedDurationOfService" />
+          <ScalarProperty Name="ActualDurationOfService" ColumnName="ActualDurationOfService" />
+          <ScalarProperty Name="StandardDeviation" ColumnName="StandardDeviation" />
+          <ScalarProperty Name="averageNumOfWaitingPeople" ColumnName="averageNumOfWaitingPeople" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="businesses">
+      <EntityTypeMapping TypeName="onLineModel.businesses">
+        <MappingFragment StoreEntitySet="businesses">
+          <ScalarProperty Name="businessId" ColumnName="businessId" />
+          <ScalarProperty Name="businessName" ColumnName="businessName" />
+          <ScalarProperty Name="passward" ColumnName="passward" />
+          <ScalarProperty Name="kindOfPermission" ColumnName="kindOfPermission" />
+          <ScalarProperty Name="Adress_city" ColumnName="Adress_city" />
+          <ScalarProperty Name="Adress_street" ColumnName="Adress_street" />
+          <ScalarProperty Name="Adress_numOfStreet" ColumnName="Adress_numOfStreet" />
+          <ScalarProperty Name="managerid" ColumnName="managerid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="categories">
+      <EntityTypeMapping TypeName="onLineModel.categories">
+        <MappingFragment StoreEntitySet="categories">
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+          <ScalarProperty Name="categoryName" ColumnName="categoryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="customers">
+      <EntityTypeMapping TypeName="onLineModel.customers">
+        <MappingFragment StoreEntitySet="customers">
+          <ScalarProperty Name="custId" ColumnName="custId" />
+          <ScalarProperty Name="phoneNumber" ColumnName="phoneNumber" />
+          <ScalarProperty Name="custName" ColumnName="custName" />
+          <ScalarProperty Name="latitude" ColumnName="latitude" />
+          <ScalarProperty Name="longitude" ColumnName="longitude" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="customersInLine">
+      <EntityTypeMapping TypeName="onLineModel.customersInLine">
+        <MappingFragment StoreEntitySet="customersInLine">
+          <ScalarProperty Name="TurnId" ColumnName="TurnId" />
+          <ScalarProperty Name="custId" ColumnName="custId" />
+          <ScalarProperty Name="activityTimeId" ColumnName="activityTimeId" />
+          <ScalarProperty Name="enterHour" ColumnName="enterHour" />
+          <ScalarProperty Name="estimatedHour" ColumnName="estimatedHour" />
+          <ScalarProperty Name="ActualHour" ColumnName="ActualHour" />
+          <ScalarProperty Name="preAlert" ColumnName="preAlert" />
+          <ScalarProperty Name="statusTurn" ColumnName="statusTurn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ranges">
+      <EntityTypeMapping TypeName="onLineModel.ranges">
+        <MappingFragment StoreEntitySet="ranges">
+          <ScalarProperty Name="TurnId" ColumnName="TurnId" />
+          <ScalarProperty Name="startTime" ColumnName="startTime" />
+          <ScalarProperty Name="endTime" ColumnName="endTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="services">
+      <EntityTypeMapping TypeName="onLineModel.services">
+        <MappingFragment StoreEntitySet="services">
+          <ScalarProperty Name="serviceId" ColumnName="serviceId" />
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+          <ScalarProperty Name="serviceName" ColumnName="serviceName" />
+          <ScalarProperty Name="businessId" ColumnName="businessId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="swaps">
+      <EntityTypeMapping TypeName="onLineModel.swaps">
+        <MappingFragment StoreEntitySet="swaps">
+          <ScalarProperty Name="swapId" ColumnName="swapId" />
+          <ScalarProperty Name="TurnId" ColumnName="TurnId" />
+          <ScalarProperty Name="startTime" ColumnName="startTime" />
+          <ScalarProperty Name="endTime" ColumnName="endTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="unusuals">
+      <EntityTypeMapping TypeName="onLineModel.unusuals">
+        <MappingFragment StoreEntitySet="unusuals">
+          <ScalarProperty Name="unusualId" ColumnName="unusualId" />
+          <ScalarProperty Name="average" ColumnName="average" />
+          <ScalarProperty Name="activityTimeId" ColumnName="activityTimeId" />
+          <ScalarProperty Name="startTime" ColumnName="startTime" />
+          <ScalarProperty Name="endTime" ColumnName="endTime" />
+          <ScalarProperty Name="StandardDeviation" ColumnName="StandardDeviation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

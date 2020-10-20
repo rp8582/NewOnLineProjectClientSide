@@ -1,0 +1,27 @@
+F:\פרויקט\ServerSideApplication\DTO\bin\Debug\DTO.dll
+F:\פרויקט\ServerSideApplication\DTO\bin\Debug\DTO.pdb
+F:\פרויקט\ServerSideApplication\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\פרויקט\ServerSideApplication\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\פרויקט\ServerSideApplication\DTO\obj\Debug\DTO.dll
+F:\פרויקט\ServerSideApplication\DTO\obj\Debug\DTO.pdb
+<<<<<<< HEAD
+D:\פרויקט\ServerSideApplication\DTO\bin\Debug\DTO.dll
+D:\פרויקט\ServerSideApplication\DTO\bin\Debug\DTO.pdb
+D:\פרויקט\ServerSideApplication\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\פרויקט\ServerSideApplication\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\פרויקט\ServerSideApplication\DTO\obj\Debug\DTO.dll
+D:\פרויקט\ServerSideApplication\DTO\obj\Debug\DTO.pdb
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DTO\bin\Debug\DTO.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DTO\bin\Debug\DTO.pdb
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DTO\obj\Debug\DTO.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DTO\obj\Debug\DTO.pdb
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DTO\obj\Debug\DTO.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DTO\obj\Debug\DTO.pdb
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DTO\bin\Debug\DTO.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DTO\bin\Debug\DTO.pdb
+=======
+>>>>>>> ec58a93d67e09aa9a904d0f1ab35e3de2302935a

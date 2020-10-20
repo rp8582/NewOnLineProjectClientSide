@@ -1,0 +1,110 @@
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\bin\Debug\DAL.dll.config
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\bin\Debug\DAL.dll
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\bin\Debug\DAL.pdb
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\bin\Debug\EntityFramework.dll
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\bin\Debug\EntityFramework.xml
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\obj\Debug\DAL.dll
+Y:\Teachers\Shimonovich\פרויקט סיום\Templates5780G3\ServerSideApplication\DAL\obj\Debug\DAL.pdb
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\bin\Debug\DAL.dll.config
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\bin\Debug\DAL.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\bin\Debug\DAL.pdb
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\obj\Debug\DAL.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\project\ServerSideApplication\DAL\obj\Debug\DAL.pdb
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.dll.config
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.pdb
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.dll
+Y:\תשפ\3\רחלי פוחוביץ\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.pdb
+E:\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.dll.config
+E:\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.dll
+E:\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.pdb
+E:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.dll
+E:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.xml
+E:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.dll
+E:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.pdb
+F:\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.dll.config
+F:\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.dll
+F:\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.pdb
+F:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.dll
+F:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.xml
+F:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.dll
+F:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.pdb
+D:\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.dll.config
+D:\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.dll
+D:\פרויקט\ServerSideApplication\DAL\bin\Debug\DAL.pdb
+D:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.dll
+D:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.xml
+D:\פרויקט\ServerSideApplication\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.dll
+D:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\serverSideApplication\onLineProjectServerSide\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Documents\שנה-ב\פרויקט\onLineProjectServerSide\DAL\obj\Debug\DAL.pdb
+F:\פרויקט\ServerSideApplication\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\bin\Debug\DAL.dll.config
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\bin\Debug\DAL.dll
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\bin\Debug\DAL.pdb
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.dll
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.xml
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\obj\Debug\DAL.dll
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\obj\Debug\DAL.pdb
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\999\Desktop\פרויקט רחלי\onLineProjectServerSide\DAL\bin\Debug\Newtonsoft.Json.xml
